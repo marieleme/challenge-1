@@ -1,0 +1,11 @@
+{
+  "name": "amazing-app",
+  "version": "1.0.0",
+  "description": "Internal web application",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "test": "echo 'No tests defined'",
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
